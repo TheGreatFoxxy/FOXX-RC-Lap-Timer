@@ -71,9 +71,10 @@ button {
 }
 
 .logbox {
-  margin: 0;
+  margin: 300;
   border: solid;
   background-color: #fff;
+  color: #000;
   cursor: text;
   width: 500px;
   min-height: 300px
