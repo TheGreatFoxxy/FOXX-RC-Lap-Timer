@@ -71,6 +71,7 @@ button {
 }
 
 .logbox {
+  font-family: "Roboto-Mono", monospace;
   margin: 300;
   border: solid;
   background-color: #fff;
