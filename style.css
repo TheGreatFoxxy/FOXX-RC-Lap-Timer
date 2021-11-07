@@ -69,3 +69,12 @@ button {
 #pauseButton {
   display: none;
 }
+
+.logbox {
+  margin: 0;
+  border: solid;
+  background-color: #fff;
+  cursor: text;
+  width: 500px;
+  min-height: 300px
+}
